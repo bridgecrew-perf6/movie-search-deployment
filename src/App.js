@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import Movie from './Movie';
 
 
-const API_URL =  'http://omdbapi.com?apikey=6b0567e2'
+const API_URL =  'https://omdbapi.com?apikey=6b0567e2'
 
 function App() {
 
